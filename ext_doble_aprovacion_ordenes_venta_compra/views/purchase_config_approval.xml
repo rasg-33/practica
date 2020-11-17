@@ -8,9 +8,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			<form string="Configuracion de Permisos de aprovaciones">
                 <sheet>
 				    <group>						
-				        <field name="name" readonly="True"></field>
-				        <field name="one_approve_by"></field>
-				        <field name="two_approve_by"></field>
+				        hola
 				    </group>
                 </sheet>		
 			</form>
