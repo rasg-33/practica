@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	<record id="config_approval_form_purchase" model="ir.ui.view">
 		<field name="name">config.approval.form.purchase</field>
 		<field name="model">purchase.conf.approve</field>
